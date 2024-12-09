@@ -1,0 +1,60 @@
+= Version 1.1 =
+* [03-06-2024]: Added new 32 pages and updated existing functionalities.
+
+== Added ==
+- Services Grid Column Pages (2-3-4 Column):
+https://troowebdesigndivi.troothemes.com/service-grid/
+https://troowebdesigndivi.troothemes.com/service-grid-2-column/
+https://troowebdesigndivi.troothemes.com/service-grid-3-column/
+https://troowebdesigndivi.troothemes.com/service-grid-4-column/
+
+- Single Service Detail Pages (16 Pages):
+https://troowebdesigndivi.troothemes.com/ux-ui-design/
+https://troowebdesigndivi.troothemes.com/website-design/
+https://troowebdesigndivi.troothemes.com/web-development/
+https://troowebdesigndivi.troothemes.com/e-commerce-website/
+https://troowebdesigndivi.troothemes.com/support-maintenance/
+https://troowebdesigndivi.troothemes.com/wordpress-support/
+https://troowebdesigndivi.troothemes.com/hosting/
+https://troowebdesigndivi.troothemes.com/mobile-apps-design/
+https://troowebdesigndivi.troothemes.com/responsive-design/
+https://troowebdesigndivi.troothemes.com/graphic-design/
+https://troowebdesigndivi.troothemes.com/website-redesign/
+https://troowebdesigndivi.troothemes.com/email-template/
+https://troowebdesigndivi.troothemes.com/cms-implementation/
+https://troowebdesigndivi.troothemes.com/ux-strategy/
+https://troowebdesigndivi.troothemes.com/video-production/
+https://troowebdesigndivi.troothemes.com/wireframing/
+
+- Service List Page + Services List (Left-Right) Pages:
+https://troowebdesigndivi.troothemes.com/service-list/
+https://troowebdesigndivi.troothemes.com/service-list-left-image/
+https://troowebdesigndivi.troothemes.com/service-list-right-image/
+
+- Our History Page:
+https://troowebdesigndivi.troothemes.com/our-history/
+
+- Our Process Page:
+https://troowebdesigndivi.troothemes.com/our-process/
+
+- Gallery Page + Gallery Column Version (2-3-4 Columns) Pages:
+https://troowebdesigndivi.troothemes.com/gallery/
+https://troowebdesigndivi.troothemes.com/gallery-2-column/
+https://troowebdesigndivi.troothemes.com/gallery-3-column/
+https://troowebdesigndivi.troothemes.com/gallery-4-column/
+
+- Video Gallery Page:
+https://troowebdesigndivi.troothemes.com/video-gallery/
+
+- Our Clients Page:
+https://troowebdesigndivi.troothemes.com/our-clients/
+
+- Awards Page:
+https://troowebdesigndivi.troothemes.com/awards/
+
+== Updated ==
+- Optimized CSS for faster page loading.
+
+= Version 1.0 - Initial Release [30-05-2023]=
+Released the initial version of the theme.
+
